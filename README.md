@@ -3,7 +3,7 @@
 
 - ### you can use yarn: 
 ```
-yarn install
+yarn
 ``` 
 
 - ### or you can use npm:
